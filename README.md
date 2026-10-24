@@ -2,24 +2,26 @@
 
 # Владислав Зеленков · vlad200zel
 
-**Разработчик: веб-приложения, интеграции с нейросетями, ассистенты**
-
-Пишу на C#, Java и Python. Собираю приложения целиком — от базы данных и API до интерфейса, — и подключаю к ним нейросети: текстовые и голосовые помощники, генерация, распознавание и синтез речи.
+**Разработчик веб-приложений · Web developer**
 
 </div>
 
+> **RU** — Разработчик веб-приложений на C#, Python и Java. Интегрирую нейросети в продукты: текстовые и голосовые ассистенты, работа с API, базы данных, хостинг и деплой.
+>
+> **EN** — Web developer working with C#, Python and Java. I integrate neural networks into applications: text and voice assistants, API integrations, databases, hosting and deployment.
+
 ---
 
-### Стек
+### Стек · Stack
 
-**Языки**
+**Языки · Languages**
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
-**Веб-разработка**
+**Веб · Web**
 
 ![.NET](https://img.shields.io/badge/.NET%208-512BD4?logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=aspnet&logoColor=white)
@@ -30,7 +32,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?logo=bootstrap&logoColor=white)
 
-**Нейросети и голос**
+**Нейросети и голос · AI & Voice**
 
 ![LLM API](https://img.shields.io/badge/LLM%20API-412991?logo=openai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white)
@@ -38,7 +40,7 @@
 ![Text-to-Speech](https://img.shields.io/badge/Text--to--Speech-8E44AD)
 ![AI Assistants](https://img.shields.io/badge/AI%20Assistants-0A0A0A)
 
-**Данные и инфраструктура**
+**Данные и инфраструктура · Data & Infrastructure**
 
 ![Databases](https://img.shields.io/badge/Базы%20данных-336791?logo=postgresql&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?logo=dotnet&logoColor=white)
@@ -49,41 +51,39 @@
 
 ---
 
-### Что умею
+### Что умею · What I do
 
-| Направление | Что конкретно |
+| Направление · Area | Что конкретно · Details |
 |---|---|
-| **Нейросети в приложениях** | Подключаю LLM к продукту через API: диалоги, генерация текста, обработка запросов. Настраиваю промпты, контекст и обработку ответов модели |
-| **Голосовые и текстовые ассистенты** | Собираю помощников полного цикла: распознавание речи → обработка запроса моделью → синтез ответа голосом. Текст и голос как два интерфейса к одной логике |
-| **Интеграции и API** | Работаю с REST: разбор чужих API, авторизация, лимиты, обработка ошибок и таймаутов, кэширование ответов, fallback при недоступности сервиса |
-| **Веб-приложения** | Делаю приложения на ASP.NET Core (Razor Pages) и Python: серверная логика, страницы, формы, валидация, интерактив на JavaScript без лишних фреймворков |
-| **Базы данных** | Проектирую схему данных и пишу слой доступа за интерфейсом — так, чтобы хранилище можно было заменить (JSON → SQL → EF Core) без переписывания логики |
-| **Хостинг и деплой** | Поднимаю приложение на сервере: окружение, порты, HTTPS, публикация и обновление версии, разбор логов при падении |
-| **Алгоритмы** | Реализую поиск на графах (Дейкстра), перебор с оценкой по критерию, геометрию (хаверсин) — и умею честно оценить сложность своего решения |
+| **Нейросети в приложениях**<br>**AI in applications** | Подключаю LLM к продукту через API: диалоги, генерация текста, обработка запросов, промпты и контекст.<br>*Integrate LLMs into products via API: dialogues, text generation, request handling, prompts and context.* |
+| **Голосовые и текстовые ассистенты**<br>**Voice & text assistants** | Помощники полного цикла: распознавание речи → обработка моделью → синтез ответа голосом.<br>*End-to-end assistants: speech recognition → model processing → speech synthesis.* |
+| **Интеграции и API**<br>**Integrations & API** | REST: авторизация, лимиты, обработка ошибок и таймаутов, кэширование, fallback при недоступности.<br>*REST: authentication, rate limits, error and timeout handling, caching, fallbacks.* |
+| **Веб-приложения**<br>**Web applications** | ASP.NET Core (Razor Pages) и Python: серверная логика, формы, валидация, интерактив на JavaScript.<br>*ASP.NET Core (Razor Pages) and Python: server logic, forms, validation, JavaScript interactivity.* |
+| **Базы данных**<br>**Databases** | Проектирование схемы и слой доступа за интерфейсом — хранилище заменяется без переписывания логики.<br>*Schema design and repository abstraction so storage can be replaced without rewriting logic.* |
+| **Хостинг и деплой**<br>**Hosting & deployment** | Окружение, порты, HTTPS, публикация и обновление версии, разбор логов.<br>*Environment, ports, HTTPS, releases and updates, log analysis.* |
+| **Алгоритмы**<br>**Algorithms** | Графы (Дейкстра), перебор с оценкой по критерию, геометрия (хаверсин), оценка сложности.<br>*Graphs (Dijkstra), criterion-based search, geometry (haversine), complexity analysis.* |
 
 ---
 
-### Проекты
+### Проекты · Projects
 
-| Проект | О чём | Стек |
+| Проект · Project | О чём · About | Стек · Stack |
 |---|---|---|
-| **[LogisticsWeb](https://github.com/vlad200zel/Logistic-web)** | Планирование доставки с оптимизацией маршрута **по прибыли**, а не по расстоянию: база клиентов, карта, расчёт доходов и расходов по каждому участку | .NET 8 · Razor Pages · Leaflet · OSRM |
-
-**LogisticsWeb** — учебный проект, сделанный целиком: модель данных и JSON-хранилище, CRUD-интерфейс с автодополнением адресов, матрица дорожных расстояний из OSRM, поиск самой выгодной комбинации остановок (DFS + Дейкстра) и визуализация маршрута на карте. В README — описание, скриншоты, инструкция пользователя и разбор архитектуры.
+| **[LogisticsWeb](https://github.com/vlad200zel/Logistic-web)** | Планирование доставки с оптимизацией маршрута по прибыли: база клиентов, карта, расчёт доходов и расходов.<br>*Delivery planning with profit-based route optimisation: client database, map, revenue and cost breakdown.* | .NET 8 · Razor Pages · Leaflet · OSRM |
 
 ---
 
-### Как я работаю
+### Как я работаю · How I work
 
-- **Сначала модель данных, потом код.** Если хранилище спрятано за интерфейсом, его можно заменить, не ломая приложение.
-- **Внешние сервисы отказывают.** Любой вызов API оборачиваю в обработку ошибок и держу запасной вариант.
-- **Проект должен запускаться одной командой.** Иначе им никто не воспользуется — включая меня через месяц.
+- **Сначала модель данных, потом код.** Хранилище за интерфейсом заменяется без переписывания приложения.<br>*Data model first, code second. Storage behind an interface can be replaced without rewriting the app.*
+- **Внешние сервисы отказывают.** Любой вызов API — с обработкой ошибок и запасным вариантом.<br>*External services fail. Every API call has error handling and a fallback.*
+- **Проект должен запускаться одной командой.** Иначе им никто не воспользуется.<br>*A project must run with one command, or nobody will use it.*
 
 ---
 
-### Контакты
+### Контакты · Contacts
 
 - GitHub: [@vlad200zel](https://github.com/vlad200zel)
-- Проект: [Logistic-web](https://github.com/vlad200zel/Logistic-web)
+- Проект · Project: [Logistic-web](https://github.com/vlad200zel/Logistic-web)
 
-<sub>Открыт к стажировкам и junior-позициям: backend, .NET / Python, интеграции с ИИ.</sub>
+<sub>Открыт к стажировкам и junior-позициям: backend, .NET / Python, интеграции с ИИ.<br>Open to internships and junior roles: backend, .NET / Python, AI integrations.</sub>
