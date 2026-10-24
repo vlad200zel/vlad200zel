@@ -69,7 +69,10 @@
 
 | Проект · Project | О чём · About | Стек · Stack |
 |---|---|---|
+| **[Gemini Helper](https://github.com/vlad200zel/gemini-helper)** | Утилита для Windows: скопировал вопрос → `Ctrl+Shift+Q` → краткий ответ поверх всех окон за 3–5 секунд.<br>*Windows utility: copy a question → `Ctrl+Shift+Q` → a concise answer on top of all windows in 3–5 seconds.* | Python · PyQt5 · Gemini API · Win32 |
 | **[LogisticsWeb](https://github.com/vlad200zel/Logistic-web)** | Планирование доставки с оптимизацией маршрута по прибыли: база клиентов, карта, расчёт доходов и расходов.<br>*Delivery planning with profit-based route optimisation: client database, map, revenue and cost breakdown.* | .NET 8 · Razor Pages · Leaflet · OSRM |
+
+**Gemini Helper** — прикладная интеграция нейросети в рабочий процесс: глобальный хоткей через Win32, буфер обмена, запрос к `gemini-2.5-flash` и плавающее окно PyQt5, которое не забирает фокус. Задача была не «сделать ещё один чат», а убрать всё между вопросом и ответом.<br>*Gemini Helper is an applied AI integration: a Win32 global hotkey, clipboard input, a `gemini-2.5-flash` request and a frameless PyQt5 overlay that never steals focus. The goal was not another chat window, but removing everything between a question and its answer.*
 
 ---
 
